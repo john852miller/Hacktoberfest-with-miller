@@ -5,11 +5,11 @@ img.emoji {
 	display: inline !important;
 	border: none !important;
 	box-shadow: none !important;
-	height: 1em !important;
+	height: 4em !important;
 	width: 1em !important;
-	margin: 0 .07em !important;
+	margin: 0 .01em !important;
 	vertical-align: -0.1em !important;
 	background: none !important;
-	padding: 0 !important;
+	padding: 3 !important;
 }
 </style>
