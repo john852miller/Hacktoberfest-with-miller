@@ -6,4 +6,4 @@
 
 **2.Add your name to contributers list**
 
-**3. Sit tight until PR merged**
+**3. Sit hardy tight until PR merged**
